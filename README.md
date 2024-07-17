@@ -23,7 +23,7 @@
 class computer_science_student:
 
     def __init__(self):
-        self.role = "Backend developer"
+        self.role = "Full-stack developer"
         self.language_learnt = ["python", "c/c++"]
         self.database_learnt = ["postgres"]
         self.framework_learning = ["django", "tkinter", "fastapi"]
