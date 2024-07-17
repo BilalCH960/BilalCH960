@@ -7,9 +7,9 @@
 
 <h3 align="center">
         <samp>My name's  
-                <b><a target="_blank" href="https://github.com/nadeemohc">Nadeem.</a></b>
+                <b><a target="_blank" href="https://github.com/nadeemohc">Bilal.</a></b>
           <br>
-                <b>I'm a self-taught computer science student</b>
+                <b>I'm a self-taught python fullstack Learner</b>
           <br>
                 <b></b>
         </samp>
@@ -25,10 +25,9 @@ class computer_science_student:
     def __init__(self):
         self.role = "Backend developer"
         self.language_learnt = ["python", "c/c++"]
-        self.language_forgot = ["java",]
         self.database_learnt = ["postgres"]
         self.framework_learning = ["django", "tkinter", "fastapi"]
-        self.planning_to_learn = ["go", "Js"]
+        self.planning_to_learn = ["go", "Js","MongoDB"]
 
     def say_bye(self):
         print("I hope you have a nice day.")
