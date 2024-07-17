@@ -9,7 +9,7 @@
         <samp>My name's  
                 <b><a target="_blank" href="https://github.com/nadeemohc">Bilal.</a></b>
           <br>
-                <b>I'm a self-taught python fullstack Learner</b>
+                <b>I'm a self-taught python fullstack Developer</b>
           <br>
                 <b></b>
         </samp>
